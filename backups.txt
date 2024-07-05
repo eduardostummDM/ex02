@@ -1,0 +1,18 @@
+(horario css)
+.conteudo__horario th,
+.conteudo__horario td{
+  padding: 4px;
+  font-size: 150%;
+  border: 1px solid #333;;
+  text-align: center;
+}
+
+.titulo__horario{
+  font-size: 150%;
+}
+
+.eletiva{
+  background-color: red;
+}
+
+(horario css)
